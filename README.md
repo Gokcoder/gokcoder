@@ -18,7 +18,7 @@ Technologies I've used
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://tr.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://sportdataapi.com/wp-content/themes/uploadfilter/img/languages/php/php.svg" width="36" height="36" alt="Php" /></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" width="36" height="36" alt="Php" /></a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968363.png" width="36" height="36" alt="Mysql" /></a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40" height="36" alt="Bootstrap" /></a>
     <a href="https://mdbootstrap.com" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVhzBRZVF7g_tPzFZcvaEuh6Ue2nYPy62YWA&s" width="36" height="36" alt="MDB5" /></a>
@@ -28,4 +28,4 @@ Technologies I've used
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/GokCoder" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163298-24197ebd-a68d-4e91-839d-036f7d41d179.png" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/gokcoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.github.com/GokCoder" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/32790894/166163298-24197ebd-a68d-4e91-839d-036f7d41d179.png" width="32" height="32" /></a>   <a href="https://www.linkedin.com/in/g%C3%B6k-coder-79003430a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
