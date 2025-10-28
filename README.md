@@ -4,7 +4,7 @@ Hi 👋 My name is Uras
 Full-Stack Web Developer
 -------------------------------------------
 
-Hi, I'm Web Developer Who still uses Php in 2024.
+Hi, I'm Full-Stack Web Developer
 
 * 🌍  I'm based in Zonguldak, Türkiye
 * 🖥️  See my portfolio at [www.gokcoder.pw](https://www.gokcoder.pw)
