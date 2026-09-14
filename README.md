@@ -9,7 +9,6 @@ Hi, I'm Full-Stack Web Developer
 * 🌍  I'm based in Zonguldak, Türkiye
 * 🖥️  See my portfolio at [www.gokcoder.pw](https://www.gokcoder.pw)
 * ✉️  You can contact me at [urasb001@gmail.com](mailto:urasb001@gmail.com)
-* 🚀  I'm currently working at [Nave Bilişim](https://www.navebilisim.com)
 
 My Current Projects
 ----------------------
