@@ -7,8 +7,8 @@ Full-Stack Web Developer
 Hi, I'm Full-Stack Web Developer
 
 * 🌍  I'm based in Zonguldak, Türkiye
-* 🖥️  See my portfolio at [www.gokcoder.pw](https://www.gokcoder.pw)
-* ✉️  You can contact me at [urasb001@gmail.com](mailto:urasb001@gmail.com)
+* 🖥️  See my portfolio at [www.gokcoder.xyz](https://www.gokcoder.xyz)
+* ✉️  You can contact me at [gokcoder@proton.me](mailto:gokcoder@proton.me)
 
 My Current Projects
 ----------------------
